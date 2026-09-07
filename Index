@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Dniester International | Custom Clothing Manufacturer</title>
+
+  <meta name="description"
+    content="Dniester International is a Sialkot, Pakistan clothing manufacturer specializing in custom sportswear, uniforms, streetwear, gymwear and activewear for global B2B buyers.">
+
+  <meta name="keywords"
+    content="clothing manufacturer Pakistan, sportswear manufacturer, custom uniforms, streetwear manufacturer, gymwear manufacturer, activewear manufacturer, private label clothing, Sialkot manufacturer">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <!-- NAVIGATION -->
+  <header class="navbar">
+    <div class="container nav-container">
+
+      <a href="#home" class="brand">
+        <span>DNIESTER</span>
+        <small>INTERNATIONAL CLOTHING MANUFACTURERS</small>
+      </a>
+
+      <nav>
+        <a href="#products">Products</a>
+        <a href="#services">Services</a>
+        <a href="#about">About</a>
+        <a href="#process">Process</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <a href="#contact" class="nav-button">GET A QUOTE</a>
+
+    </div>
+  </header>
+
+
+  <!-- HERO -->
+  <section class="hero" id="home">
+    <div class="container hero-content">
+
+      <div class="hero-text">
+
+        <div class="eyebrow">
+          SIALKOT, PAKISTAN • B2B APPAREL MANUFACTURING
+        </div>
+
+        <h1>
+          CUSTOM APPAREL.
+          <span>BUILT FOR BUSINESS.</span>
+        </h1>
+
+        <p>
+          From professional team uniforms to streetwear, gymwear and
+          activewear — Dniester International manufactures custom apparel
+          for brands, teams, clubs, retailers and businesses worldwide.
+        </p>
+
+        <div class="hero-buttons">
+          <a href="#contact" class="button primary">REQUEST A QUOTE</a>
+          <a href="#products" class="button secondary">EXPLORE PRODUCTS</a>
+        </div>
+
+        <div class="hero-trust">
+          <div>
+            <strong>01</strong>
+            <span>Custom Manufacturing</span>
+          </div>
+
+          <div>
+            <strong>02</strong>
+            <span>Private Label</span>
+          </div>
+
+          <div>
+            <strong>03</strong>
+            <span>B2B Worldwide</span>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="hero-card">
+        <div class="hero-card-inner">
+          <p>YOUR BRAND</p>
+          <h2>YOUR<br>DESIGN</h2>
+          <span>OUR MANUFACTURING</span>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- PRODUCTS -->
+  <section class="section" id="products">
+
+    <div class="container">
+
+      <div class="section-heading">
+        <span>OUR PRODUCTS</span>
+        <h2>APPAREL FOR EVERY MARKET</h2>
+        <p>
+          Custom-made apparel manufactured according to your designs,
+          specifications and branding requirements.
+        </p>
+      </div>
+
+
+      <div class="product-grid">
+
+        <article class="product-card">
+          <div class="product-number">01</div>
+          <h3>SPORTSWEAR & UNIFORMS</h3>
+          <p>
+            Professional custom teamwear and uniforms for sports teams,
+            clubs, academies and organizations.
+          </p>
+
+          <ul>
+            <li>Football / Soccer</li>
+            <li>Basketball</li>
+            <li>Baseball & Softball</li>
+            <li>American Football</li>
+            <li>Volleyball</li>
+            <li>Cricket & Rugby</li>
+            <li>Ice Hockey</li>
+            <li>Training Wear</li>
+          </ul>
+        </article>
+
+
+        <article class="product-card featured">
+          <div class="product-number">02</div>
+          <h3>STREETWEAR</h3>
+          <p>
+            Modern custom streetwear for clothing brands, retailers and
+            private-label businesses.
+          </p>
+
+          <ul>
+            <li>Oversized T-Shirts</li>
+            <li>Hoodies</li>
+            <li>Sweatshirts</li>
+            <li>Joggers</li>
+            <li>Tracksuits</li>
+            <li>Varsity Jackets</li>
+            <li>Bomber Jackets</li>
+            <li>Custom Outerwear</li>
+          </ul>
+        </article>
+
+
+        <article class="product-card">
+          <div class="product-number">03</div>
+          <h3>GYMWEAR & ACTIVEWEAR</h3>
+          <p>
+            Performance-focused apparel designed for training, fitness,
+            running and active lifestyles.
+          </p>
+
+          <ul>
+            <li>Compression Wear</li>
+            <li>Training Sets</li>
+            <li>Gym Shorts</li>
+            <li>Training Tops</li>
+            <li>Leggings</li>
+            <li>Running Wear</li>
+            <li>Performance Wear</li>
+            <li>Workout Sets</li>
+          </ul>
+        </article>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- SERVICES -->
+  <section class="section dark-section" id="services">
+
+    <div class="container">
+
+      <div class="section-heading light">
+        <span>WHAT WE DO</span>
+        <h2>COMPLETE MANUFACTURING SOLUTIONS</h2>
+        <p>
+          Turn your concept into finished apparel with our complete
+          customization and production services.
+        </p>
+      </div>
+
+
+      <div class="service-grid">
+
+        <div class="service">
+          <span>01</span>
+          <h3>CUSTOM MANUFACTURING</h3>
+          <p>
+            Manufacturing based on your design, measurements, fabrics,
+            colors and specifications.
+          </p>
+        </div>
+
+        <div class="service">
+          <span>02</span>
+          <h3>SUBLIMATION</h3>
+          <p>
+            Detailed all-over prints and custom designs for professional
+            sportswear and team uniforms.
+          </p>
+        </div>
+
+        <div class="service">
+          <span>03</span>
+          <h3>EMBROIDERY</h3>
+          <p>
+            Premium embroidered logos, names, graphics and branding
+            applications.
+          </p>
+        </div>
+
+        <div class="service">
+          <span>04</span>
+          <h3>DTF / DTG</h3>
+          <p>
+            Custom printing solutions for streetwear, fashionwear,
+            uniforms and private-label products.
+          </p>
+        </div>
+
+        <div class="service">
+          <span>05</span>
+          <h3>PRIVATE LABEL</h3>
+          <p>
+            Build your own clothing line with custom labels, branding,
+            packaging and product specifications.
+          </p>
+        </div>
+
+        <div class="service">
+          <span>06</span>
+          <h3>CUSTOM BRANDING</h3>
+          <p>
+            Labels, tags, patches, packaging and other brand-specific
+            requirements.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- ABOUT -->
+  <section class="section" id="about">
+
+    <div class="container about-grid">
+
+      <div class="about-title">
+        <span>ABOUT DNIESTER</span>
+        <h2>MANUFACTURING FROM SIALKOT TO THE WORLD.</h2>
+      </div>
+
+      <div class="about-text">
+
+        <p class="large">
+          Dniester International Clothing Manufacturers is a
+          Sialkot-based apparel manufacturing business focused on
+          custom B2B clothing production.
+        </p>
+
+        <p>
+          We work with clothing brands, sports teams, clubs, retailers,
+          gyms, organizations and international buyers looking for
+          customized apparel manufactured according to their requirements.
+        </p>
+
+        <p>
+          Our product range covers sportswear, uniforms, streetwear,
+          gymwear and activewear, with customization options including
+          sublimation, embroidery, DTF/DTG and private-label production.
+        </p>
+
+        <a href="#contact" class="text-link">
+          WORK WITH DNIESTER →
+        </a>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- WHY US -->
+  <section class="section light-section">
+
+    <div class="container">
+
+      <div class="section-heading">
+        <span>WHY DNIESTER</span>
+        <h2>BUILT AROUND YOUR BRAND</h2>
+      </div>
+
+      <div class="benefits-grid">
+
+        <div class="benefit">
+          <strong>01</strong>
+          <h3>YOUR DESIGN</h3>
+          <p>
+            We manufacture according to your artwork, specifications
+            and product requirements.
+          </p>
+        </div>
+
+        <div class="benefit">
+          <strong>02</strong>
+          <h3>YOUR BRAND</h3>
+          <p>
+            Custom labels, logos, packaging and branding options for
+            private-label businesses.
+          </p>
+        </div>
+
+        <div class="benefit">
+          <strong>03</strong>
+          <h3>YOUR MARKET</h3>
+          <p>
+            Apparel solutions for sports, fashion, fitness, retail and
+            international B2B markets.
+          </p>
+        </div>
+
+        <div class="benefit">
+          <strong>04</strong>
+          <h3>YOUR REQUIREMENTS</h3>
+          <p>
+            Product specifications, fabrics, colors, prints and
+            finishing can be customized.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- PROCESS -->
+  <section class="section" id="process">
+
+    <div class="container">
+
+      <div class="section-heading">
+        <span>HOW WE WORK</span>
+        <h2>FROM IDEA TO FINISHED PRODUCT</h2>
+      </div>
+
+      <div class="process">
+
+        <div class="process-step">
+          <div>01</div>
+          <h3>REQUIREMENTS</h3>
+          <p>
+            Send us your design, product details and quantity requirements.
+          </p>
+        </div>
+
+        <div class="process-step">
+          <div>02</div>
+          <h3>QUOTATION</h3>
+          <p>
+            We review your requirements and provide a customized quotation.
+          </p>
+        </div>
+
+        <div class="process-step">
+          <div>03</div>
+          <h3>SAMPLE</h3>
+          <p>
+            Product samples can be developed according to the approved
+            specifications.
+          </p>
+        </div>
+
+        <div class="process-step">
+          <div>04</div>
+          <h3>PRODUCTION</h3>
+          <p>
+            After approval, your order moves into production.
+          </p>
+        </div>
+
+        <div class="process-step">
+          <div>05</div>
+          <h3>QUALITY CHECK</h3>
+          <p>
+            Products are checked against the agreed specifications.
+          </p>
+        </div>
+
+        <div class="process-step">
+          <div>06</div>
+          <h3>DELIVERY</h3>
+          <p>
+            Finished orders are prepared for delivery to your destination.
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- CREDENTIALS -->
+  <section class="credentials">
+
+    <div class="container">
+
+      <div class="section-heading">
+        <span>BUSINESS CREDENTIALS</span>
+        <h2>PROFESSIONAL BUSINESS NETWORK</h2>
+        <p>
+          Add only memberships, registrations or certifications that
+          your business can officially document.
+        </p>
+      </div>
+
+      <div class="credential-grid">
+
+        <div>PSGMEA</div>
+        <div>SCCI</div>
+        <div>PHMA</div>
+        <div>FBR</div>
+
+      </div>
+
+      <p class="credential-note">
+        Memberships, registrations and certifications should be listed
+        according to your official business documentation.
+      </p>
+
+    </div>
+  </section>
+
+
+  <!-- CTA -->
+  <section class="cta">
+
+    <div class="container">
+
+      <span>READY TO START?</span>
+
+      <h2>
+        LET'S BUILD YOUR
+        <strong>NEXT COLLECTION.</strong>
+      </h2>
+
+      <p>
+        Send us your product requirements and let's discuss your
+        custom apparel manufacturing project.
+      </p>
+
+      <a href="#contact" class="button primary">
+        REQUEST A QUOTE
+      </a>
+
+    </div>
+
+  </section>
+
+
+  <!-- CONTACT -->
+  <section class="section contact-section" id="contact">
+
+    <div class="container contact-grid">
+
+      <div>
+
+        <span class="section-label">CONTACT DNIESTER</span>
+
+        <h2>
+          LET'S TALK
+          <span>BUSINESS.</span>
+        </h2>
+
+        <p>
+          Looking for a custom clothing manufacturer?
+          Send your requirements and we'll get back to you.
+        </p>
+
+        <div class="contact-details">
+
+          <div>
+            <strong>EMAIL</strong>
+            <a href="mailto:dniesterinternational@gmail.com">
+              dniesterinternational@gmail.com
+            </a>
+          </div>
+
+          <div>
+            <strong>LOCATION</strong>
+            <p>Sialkot, Punjab, Pakistan</p>
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <div class="contact-box">
+
+        <h3>START YOUR PROJECT</h3>
+
+        <p>
+          Contact us for custom apparel manufacturing,
+          private label production and B2B orders.
+        </p>
+
+        <a
+          href="mailto:dniesterinternational@gmail.com?subject=Custom%20Apparel%20Manufacturing%20Inquiry"
+          class="button primary full">
+          EMAIL US
+        </a>
+
+        <!-- Replace # with your exact social/WhatsApp URLs -->
+
+        <a href="#" class="social-button">
+          WHATSAPP
+        </a>
+
+        <a href="#" class="social-button">
+          INSTAGRAM
+        </a>
+
+        <a href="#" class="social-button">
+          FACEBOOK
+        </a>
+
+        <a href="#" class="social-button">
+          TIKTOK
+        </a>
+
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- FOOTER -->
+  <footer>
+
+    <div class="container footer-grid">
+
+      <div>
+        <h3>DNIESTER</h3>
+        <p>
+          INTERNATIONAL CLOTHING MANUFACTURERS
+        </p>
+      </div>
+
+      <div>
+        <p>
+          Custom Sportswear • Streetwear • Gymwear • Activewear
+        </p>
+        <p>
+          Sialkot, Pakistan • B2B Worldwide
+        </p>
+      </div>
+
+    </div>
+
+    <div class="container copyright">
+      © 2026 Dniester International Clothing Manufacturers.
+      All Rights Reserved.
+    </div>
+
+  </footer>
+
+</body>
+</html>
